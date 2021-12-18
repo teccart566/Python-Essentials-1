@@ -1,0 +1,5 @@
+print("hello, I am Harmanpreet kaur",end=" ")
+print()
+print("hello, I'm Harmanpreet kaur")
+print("I'm\ Harmanpreet kaur\" ")
+print("hello, I'm \"Harmanpreet kaur\".")
